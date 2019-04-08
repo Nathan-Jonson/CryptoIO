@@ -2,9 +2,9 @@ This is a fork of Crypter's i2s library for driving 74HC595 shift regesters with
 I have re-purposed it to 
 1. Support more than 4 74HC595 chips
 2. Drive led array displays drivven from 74HC595 chips with:
-    fast refresh rate
-    DMA
-    individual LED dimming/brightness controll 
+*  Fast refresh rate
+*  DMA
+*  Individual LED dimming/brightness controll 
 
 
 # Origional Readme:
