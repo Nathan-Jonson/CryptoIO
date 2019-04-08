@@ -1,7 +1,7 @@
 This is a fork of Crypter's i2s library for driving 74HC595 shift regesters with DMA from an esp8266. 
 I have re-purposed it to 
 1. Support more than 4 74HC595 chips
-2. Drive led array displays drivven from 74HC595 chips with:
+2. Drive led array displays driven from 74HC595 chips with:
 *  Fast refresh rate
 *  DMA
 *  Individual LED dimming/brightness controll 
