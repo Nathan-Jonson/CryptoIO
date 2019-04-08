@@ -6,6 +6,7 @@ I have re-purposed it to
 *  DMA
 *  Individual LED dimming/brightness controll 
 
+*This library is still unfinished, but should be finished within a few days to a couple weeks. This message will be removed when it is complete.
 
 # Origional Readme:
 Get 32 outputs from ESP8266 boards using shift registers and I2S
